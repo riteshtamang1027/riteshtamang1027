@@ -37,11 +37,19 @@
 ## 📊 GitHub Stats  
 <div align="center">
 
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=riteshtamang1027&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=riteshtamang1027&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshtamang1027&layout=compact&theme=tokyonight)
+
+
+
+
+[![GitHub Streak](https://streak.jakemc.dev?user=riteshtamang1027&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
 </div>
 
