@@ -45,12 +45,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshtamang1027&layout=compact&theme=tokyonight)
 
 
-
-
-[![GitHub Streak](https://streak.jakemc.dev?user=riteshtamang1027&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
 </div>
 
 ---
