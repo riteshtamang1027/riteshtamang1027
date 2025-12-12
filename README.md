@@ -37,12 +37,10 @@
 ## 📊 GitHub Stats  
 <div align="center">
 
-
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=riteshtamang1027&show_icons=true&theme=tokyonight)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshtamang1027&layout=compact&theme=tokyonight)
+
 
 
 </div>
