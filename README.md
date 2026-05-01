@@ -1,7 +1,7 @@
 # <h1 align="left">Hi 👋, I'm Ritesh Lama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+|+Next.js;Always+Learning+New+Things&center=true&color=00e5ff&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+|+Next.js;Always+Learning+New+Things&center=true&color=00e5ff&size=28" />
 </p>
 
 
